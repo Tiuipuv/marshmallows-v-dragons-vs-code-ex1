@@ -3,7 +3,7 @@ package app;
 
 public class App {
     private int selectedDragons;
-    public String test;
+    public String testVerbosity;
     public App() {
         selectedDragons = 0;
         MainMenu mainMenu = new MainMenu();
