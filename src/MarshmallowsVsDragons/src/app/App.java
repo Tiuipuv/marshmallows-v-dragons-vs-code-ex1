@@ -3,7 +3,6 @@ package app;
 
 public class App {
     private int selectedDragons;
-    public String tewnefoweifonwfoint;
     public App() {
         selectedDragons = 0;
         MainMenu mainMenu = new MainMenu();
