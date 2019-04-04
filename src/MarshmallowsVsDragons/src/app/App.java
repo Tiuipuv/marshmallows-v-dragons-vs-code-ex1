@@ -3,6 +3,7 @@ package app;
 
 public class App {
     private int selectedDragons;
+    public String verbose;
     public App() {
         selectedDragons = 0;
         MainMenu mainMenu = new MainMenu();
