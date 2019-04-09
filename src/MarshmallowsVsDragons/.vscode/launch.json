@@ -6,6 +6,7 @@
             "request": "launch",
             "mainClass": "app.App",
             "console": "externalTerminal",
+            "externalConsole": true,
             "projectName": "MarshmallowsVsDragons"
         }
     ]
